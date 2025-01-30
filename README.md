@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @razz04
-- 👀 I’m interested in learning JAVA and Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on C++ and Java projects
+- 🌱 I’m currently learning Java and C
+- 💞️ I’m looking to collaborate on C/C++ and Java projects
 - 📫 How to reach me ...
 - 😄 Pronouns: She
 - ⚡ Fun fact: I need lots of practice to ace coding.
